@@ -1,16 +1,21 @@
-## Hi there 👋
+# Erhan Karadag
 
-<!--
-**karadagerhan/karadagerhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioengineer working across biotechnology, data science and machine learning.
 
-Here are some ideas to get you started:
+I'm currently completing the Cambridge Data Science with Machine Learning & AI Accelerator, alongside developing self-directed projects applying computational methods to biological data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current interests include computational biology, transcriptomics, scientific data analysis and the application of machine learning to biological research.
+
+## Featured Project
+
+### Cancer Transcriptomics Analysis
+
+Exploratory analysis of cancer gene-expression data using Python, PCA and unsupervised learning.
+
+The current pilot analysis examines whether five cancer types can be distinguished from their expression profiles, with the project being extended towards gene-level and pathway-level analysis.
+
+[View the project](https://github.com/karadagerhan/cancer-transcriptomics-analysis)
+
+## Tools
+
+Python · Pandas · NumPy · scikit-learn · TensorFlow · Jupyter · SQL
